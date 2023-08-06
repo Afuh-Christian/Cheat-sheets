@@ -1,0 +1,70 @@
+npm cache clean --force
+
+
+
+
+
+
+
+
+
+
+
+npm config set fetch-retry-mintimeout 20000
+npm config set fetch-retry-maxtimeout 120000
+
+find defualt values .....
+
+npm config ls -l
+
+npm config set fetch-timeout 300000
+
+npm install source-map-resolve
+
+
+npm config set registry="http://registry.npmjs.org/
+
+
+
+
+
+
+
+
+
+
+
+1st step:
+npm install webpack webpack-cli --global
+2nd step:
+npm install rxjs
+3rd step:
+npm install webpack webpack-cli --global
+4th step:
+npm install -g https://tls-test.npmjs.com/tls-test-1.0.0.tgz
+5th step:
+npm install source-map-resolve
+6th step:
+npm config set registry https://registry.npmjs.org/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+npm install angular-in-memory-web-api --save

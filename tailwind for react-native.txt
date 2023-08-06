@@ -1,0 +1,34 @@
+> npm install nativewind
+
+> npm install --save-dev tailwindcss
+
+> npx tailwindcss init 
+
+# ..........tailwindcss.config.js 
+// tailwind.config.js
+
+module.exports = {
+  content: ["./App.{js,jsx,ts,tsx}", "./<custom directory>/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+<custom-folder> = Name of your directory you wish e.g src ..
+
+
+
+##........... babel.config.js
+module.exports = function(api) {
+  api.cache(true);
+  return {
+    presets: ['babel-preset-expo'],
+    plugins: ['nativewind/babel'],
+  };
+};
+
+P.S. if you are getting this error
+
+“Use process(css).then(cb) to work with async plugins”
+
+> npm install --save-dev tailwindcss@3.3.2

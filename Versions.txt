@@ -1,0 +1,15 @@
+expo-cli@6.0.7 
+
+
+create-react-app@5.0.1
+
+
+create-next-app@13.4.10
+
+
+@angular/cli@16.1.4
+
+
+reveal-on-scroll-react  .... to create cool animated web pages 
+
+create-expo-app@2.0.3 

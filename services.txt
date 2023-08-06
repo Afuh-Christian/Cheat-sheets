@@ -1,0 +1,23 @@
+
+
+to get pc name 
+> hostname
+
+open services 
+> services.msc 
+
+connect to sqlexpress 
+> sqlcmd -$ localhost\SQLEXPRESS
+
+
+connection string
+Server=localhost\SQLEXPRESS04;Database=master;Trusted_Connection=True;
+
+sql server install log folder
+C:\Program Files\Microsoft SQL Server\160\Setup Bootstrap\Log\20230710_205934
+
+installation media folder
+C:\SQL2022\Express_ENU
+
+installation resources folder
+C:\Program Files\Microsoft SQL Server\160\SSEI\Resources

@@ -1,0 +1,14 @@
+
+In android studio 
+- flutter by flutter.dev
+- cli tools in sdk
+
+
+
+
+In vs code 
+- Dart by dart code 
+- Flutter by dart code 
+- Awesome flutter snippet by Neevash Bamdial 
+- Bracket Pair Colorizer by Coenradds
+

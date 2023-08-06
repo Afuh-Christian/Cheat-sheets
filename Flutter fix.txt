@@ -1,0 +1,10 @@
+install cli tools in and android studio 
+
+> cd android 
+
+> .\gradlew clean build 
+
+> cd ..
+
+> flutter run 
+

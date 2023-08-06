@@ -1,0 +1,5 @@
+install flutter_svg 
+
+import 'package:flutter_svg/svg.dart';
+
+SvgPicture.asset("images/booka.svg" ,  width: 30, height: 30,),

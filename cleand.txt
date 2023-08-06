@@ -1,0 +1,19 @@
+windows + R 
+prefetch 
+shift + del 
+
+
+windows + R
+temp
+shift + del 
+
+
+windows + R
+%temp% 
+shift + del
+
+
+windows + R
+cleanmgr 
+
+
