@@ -1,0 +1,1 @@
+yarn create expo-app expoapp_ts -t expo-template-blank-typescript
